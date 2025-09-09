@@ -1,7 +1,7 @@
 # Sign Up Form Validation
 
 ## Live Demo
-[https://alexemathew.github.io/signup-form-validation/](https://alexemathew.github.io/signup-form-validation/)
+[https://fellowone.github.io/signup-form-validation/](https://fellowone.github.io/signup-form-validation/)
 
 ---
 
